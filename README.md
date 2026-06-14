@@ -1,2 +1,2 @@
-# Employee-Management-System
-Advanced Java Employee Management System using JSP, Servlets, JDBC, MySQL and Apache Tomcat.
+# Professional Employee Management System
+Features: Login, CRUD, JDBC, Pagination, Sorting, JavaMail, Tomcat Deployment.

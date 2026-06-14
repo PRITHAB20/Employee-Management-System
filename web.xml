@@ -1,0 +1,3 @@
+<web-app>
+<servlet><servlet-name>LoginServlet</servlet-name><servlet-class>com.ems.controller.LoginServlet</servlet-class></servlet>
+</web-app>

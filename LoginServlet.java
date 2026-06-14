@@ -1,0 +1,1 @@
+package com.ems.controller; import javax.servlet.http.*; import java.io.*; public class LoginServlet extends HttpServlet { protected void doPost(HttpServletRequest r,HttpServletResponse s)throws IOException{ s.getWriter().println("Implement JDBC authentication here"); }}

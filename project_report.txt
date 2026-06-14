@@ -1,0 +1,7 @@
+EMPLOYEE MANAGEMENT SYSTEM
+Modules:
+1. Login Authentication
+2. CRUD Operations
+3. Pagination & Sorting
+4. Email Notification
+5. Tomcat Deployment

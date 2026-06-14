@@ -1,0 +1,1 @@
+package com.ems.model; public class Employee { private int empId; private String name,department,email; private double salary; }

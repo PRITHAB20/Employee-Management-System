@@ -1,0 +1,1 @@
+package com.ems.util; public class EmailUtil { /* JavaMail implementation */ }
